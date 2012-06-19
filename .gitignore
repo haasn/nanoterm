@@ -1,0 +1,10 @@
+dist
+cabal-dev
+bin
+obj
+releases
+*.o
+*.hi
+*.chi
+*.chs.h
+*.swp

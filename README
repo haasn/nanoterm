@@ -1,0 +1,4 @@
+A small vte-based terminal
+
+This requires the patched version of haskell-vte, which is available
+at https://github.com/nandykins/haskell-vte
