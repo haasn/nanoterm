@@ -1,2 +1,2 @@
 #!/bin/bash
-cp bin/nanoterm /usr/local/bin/nanoterm
+cp -f bin/nanoterm /usr/local/bin/nanoterm
